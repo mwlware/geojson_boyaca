@@ -9,6 +9,8 @@ Este repositorio contiene archivos GeoJSON y una plantilla de Power BI (.pbix) q
 | `boyaca_geojson_123_json.json`          | Mapa en formato GeoJSON con los límites geográficos de los 123 municipios de Boyacá.                                                  |
 | `boyaca_geojson_123_municipios.geojson` | Versión optimizada del archivo GeoJSON para uso en herramientas de visualización y análisis.                                          |
 | `plantilla_provincias.pbix`             | Plantilla de Power BI con un mapa interactivo basado en los archivos GeoJSON. Permite explorar las provincias y municipios de Boyacá. |
+
+
 🧭 Uso en Power BI
 
 Abre el archivo plantilla_provincias.pbix en Power BI Desktop.
